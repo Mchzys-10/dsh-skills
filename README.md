@@ -20,6 +20,7 @@
 | [`github-repo-bootstrap`](skills/github-repo-bootstrap/SKILL.md) | 用 `gh` + `git` 从零建一个规范的公开/私有仓库：README、LICENSE、.gitignore、首次提交、推送、验证 |
 | [`skill-forge`](skills/skill-forge/SKILL.md) | 从零写一个合规的 `SKILL.md`：命名规则、frontmatter、正文结构、自检清单 |
 | [`changelog-writer`](skills/changelog-writer/SKILL.md) | 根据 `git log` 生成 / 更新 Keep a Changelog 格式的 CHANGELOG |
+| [`memory-vault`](skills/memory-vault/SKILL.md) | 读写本地 Markdown 记忆库（Obsidian vault）：稳定事实、项目进展、决策、可复用结论 |
 
 ## 目录结构
 
